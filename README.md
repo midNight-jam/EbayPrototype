@@ -3,5 +3,6 @@
 
 ●	Technologies Used: Created the middleware module for authentication using Passport with local, facebook and google strategy. 
 Applied AMQP protocol using RabbitMQ message queues for distributing processing, resulting in greater throughput of the application.
-![Alt text](/images/performanceGraph.png?raw=true "Graph")
+![Alt text](https://github.com/midNight-jam/EbayPrototype/blob/master/images/performanceGraph.PNG?raw=true "Graph")
+
 
